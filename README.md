@@ -1,3 +1,3 @@
-##Boilerplate for React/Express
+## Boilerplate for React/Express
 
-###Todos: complete fetch test from client to server
+### Todos: complete fetch test from client to server
